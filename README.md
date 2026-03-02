@@ -1,16 +1,94 @@
-## Hi there 👋
+<!-- Header -->
+<div align="center">
 
-<!--
-**jayden1711/jayden1711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+   ██╗ █████╗ ██╗   ██╗██████╗ ███████╗███╗   ██╗
+   ██║██╔══██╗╚██╗ ██╔╝██╔══██╗██╔════╝████╗  ██║
+   ██║███████║ ╚████╔╝ ██║  ██║█████╗  ██╔██╗ ██║
+██ ██║██╔══██║  ╚██╔╝  ██║  ██║██╔══╝  ██║╚██╗██║
+╚█████╔╝██║  ██║   ██║   ██████╔╝███████╗██║ ╚████║
+ ╚════╝ ╚═╝  ╚═╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═══╝
+```
 
-Here are some ideas to get you started:
+### CS @ The Ohio State University · Edge AI · Autonomous Systems · Distributed ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayden-vasquez)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayden1711)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaydenvasquez1711@gmail.com)
+
+</div>
+
+---
+
+## `> whoami`
+
+```python
+jayden = {
+    "school":     "The Ohio State University ('28)",
+    "major":      "Computer Science & Engineering",
+    "gpa":        3.68,
+    "interests":  ["Edge AI", "Agentic Systems", "Distributed ML", "Autonomous Vehicles"],
+    "currently":  "Making neural nets run fast on tiny computers 🔧",
+}
+```
+
+---
+
+## `> ls ./experience`
+
+**🔬 AI Manufacturing Systems Lab** — *Undergraduate Research Lead* `Jan 2025 – Present`
+> Deploying optimized vision transformers on NVIDIA Jetson hardware for a Honda manufacturing partnership.
+
+**🚗 Buckeye AutoDrive** — *Algorithm Developer* `Aug 2024 – Apr 2025`
+> Built real-time perception algorithms for an autonomous vehicle using YOLOv11 and distributed SLURM training.
+
+---
+
+## `> ls ./projects`
+
+| Project | Stack |
+|---|---|
+| 🎓 **OSU Professor Recommender** | FastAPI · BERT · PostgreSQL · Docker |
+| 🐛 **Terminal Error Classifier** | Scikit-Learn · Pandas · Pytest |
+| 📦 **Batch Processing Library** | PyArrow · Parquet · Generators |
+
+---
+
+## `> cat skills.txt`
+
+```
+Languages      →  Python  C/C++  SQL  Bash
+ML/DL          →  PyTorch  CUDA  TensorRT  Scikit-Learn  OpenCV  NumPy  Pandas
+Infra          →  Docker  Kubernetes  AWS  PostgreSQL  Linux  Git
+Specialties    →  Edge Inference  Embedded Deployment  Distributed Training  Real-Time CV
+```
+
+---
+
+## `> cat stats.json`
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayden1711&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayden1711&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+
+</div>
+
+---
+
+## `> cat involvement.txt`
+
+- 🏆 **Management Leadership for Tomorrow** — Career Prep Fellow (LinkedIn · Bloomberg · Deloitte)
+- 🤝 **Society of Hispanic Professional Engineers** — Member
+- 🎨 **ColorStack** — Member
+- 💻 **ACM** — Member
+
+---
+
+<div align="center">
+
+*"Making models smaller, faster, and smarter — one kernel at a time."*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=jayden1711&color=58a6ff&style=flat-square)
+
+</div>
