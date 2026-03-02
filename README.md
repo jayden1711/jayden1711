@@ -43,16 +43,6 @@ jayden = {
 
 ---
 
-## `> ls ./projects`
-
-| Project | Stack |
-|---|---|
-| 🎓 **OSU Professor Recommender** | FastAPI · BERT · PostgreSQL · Docker |
-| 🐛 **Terminal Error Classifier** | Scikit-Learn · Pandas · Pytest |
-| 📦 **Batch Processing Library** | PyArrow · Parquet · Generators |
-
----
-
 ## `> cat skills.txt`
 
 ```
