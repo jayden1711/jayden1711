@@ -12,7 +12,7 @@
 
 ### CS @ The Ohio State University · Edge AI · Autonomous Systems · Distributed ML
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayden-vasquez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/jayden-vasquez](https://www.linkedin.com/in/jaydenvasquez/))
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayden1711)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaydenvasquez1711@gmail.com)
 
@@ -37,7 +37,7 @@ jayden = {
 ## `> ls ./experience`
 
 **🔬 AI Manufacturing Systems Lab** — *Undergraduate Research Lead* `Jan 2025 – Present`
-> Deploying optimized vision transformers on NVIDIA Jetson hardware for a Honda manufacturing partnership.
+> Deploying optimized vision transformers on NVIDIA Jetson hardware
 
 **🚗 Buckeye AutoDrive** — *Algorithm Developer* `Aug 2024 – Apr 2025`
 > Built real-time perception algorithms for an autonomous vehicle using YOLOv11 and distributed SLURM training.
@@ -87,7 +87,7 @@ Specialties    →  Edge Inference  Embedded Deployment  Distributed Training  R
 
 <div align="center">
 
-*"Making models smaller, faster, and smarter — one kernel at a time."*
+*"Making models smaller, faster, and smarter"*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=jayden1711&color=58a6ff&style=flat-square)
 
