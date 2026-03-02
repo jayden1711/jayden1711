@@ -64,14 +64,6 @@ Specialties    →  Edge Inference  Embedded Deployment  Distributed Training  R
 
 ---
 
-## `> cat stats.json`
-
-<div align="center">
-
-</div>
-
----
-
 ## `> cat involvement.txt`
 
 - 🏆 **Management Leadership for Tomorrow** — Career Prep Fellow (LinkedIn · Bloomberg · Deloitte)
