@@ -2,6 +2,7 @@
 <div align="center">
 
 ```
+
    ██╗ █████╗ ██╗   ██╗██████╗ ███████╗███╗   ██╗
    ██║██╔══██╗╚██╗ ██╔╝██╔══██╗██╔════╝████╗  ██║
    ██║███████║ ╚████╔╝ ██║  ██║█████╗  ██╔██╗ ██║
@@ -35,7 +36,7 @@ jayden = {
 
 ## `> ls ./experience`
 
-**🔬 AI Manufacturing Systems Lab** — *Undergraduate Research Lead* `Jan 2025 – Present`
+**🔬 AI Manufacturing Systems Lab** — *Undergraduate Researcher* `Jan 2025 – Present`
 > Deploying optimized vision transformers on NVIDIA Jetson hardware
 
 **🚗 Buckeye AutoDrive** — *Algorithm Developer* `Aug 2024 – Apr 2025`
@@ -56,7 +57,7 @@ Specialties    →  Edge Inference  Embedded Deployment  Distributed Training  R
 
 ## `> cat involvement.txt`
 
-- 🏆 **Management Leadership for Tomorrow** — Career Prep Fellow (LinkedIn · Bloomberg · Deloitte)
+- 🏆 **Management Leadership for Tomorrow** — Career Prep Fellow 
 - 🤝 **Society of Hispanic Professional Engineers** — Member
 - 🎨 **ColorStack** — Member
 - 💻 **ACM** — Member
