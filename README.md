@@ -21,6 +21,4 @@ outside of that i like autonomous systems, agents, and low-level optimization in
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=jayden1711&color=58a6ff&style=flat-square)
-
 </div>
