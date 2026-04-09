@@ -4,9 +4,6 @@
 
 CS @ Ohio State · interested in systems, ML, and making things run fast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaydenvasquez/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jaydenvasquez1711@gmail.com)
-
 </div>
 
 ---
