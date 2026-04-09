@@ -1,72 +1,28 @@
-<!-- Header -->
 <div align="center">
 
-```
+# hey, i'm jayden 👋
 
-   ██╗ █████╗ ██╗   ██╗██████╗ ███████╗███╗   ██╗
-   ██║██╔══██╗╚██╗ ██╔╝██╔══██╗██╔════╝████╗  ██║
-   ██║███████║ ╚████╔╝ ██║  ██║█████╗  ██╔██╗ ██║
-██ ██║██╔══██║  ╚██╔╝  ██║  ██║██╔══╝  ██║╚██╗██║
-╚█████╔╝██║  ██║   ██║   ██████╔╝███████╗██║ ╚████║
- ╚════╝ ╚═╝  ╚═╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═══╝
-```
+CS @ Ohio State · interested in systems, ML, and making things run fast
 
-### CS @ The Ohio State University · Edge AI · Autonomous Systems · Distributed ML
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaydenvasquez/)
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayden1711)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaydenvasquez1711@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaydenvasquez/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jaydenvasquez1711@gmail.com)
 
 </div>
 
 ---
 
-## `> whoami`
+i'm into **GPU kernels**, **distributed training**, and **edge inference** — basically anything that sits at the intersection of systems and ML.
 
-```python
-jayden = {
-    "school":     "The Ohio State University",
-    "major":      "Computer Science & Engineering",
-    "interests":  ["Edge AI", "Agentic Systems", "Distributed ML", "Autonomous Vehicles"],
-    "currently":  "Making neural nets run fast on tiny computers 🔧",
-}
-```
+lately i've been spending time on:
+- correctness verification for LLM-generated Triton kernels
+- sparse attention kernels for reasoning models
+- making inference run fast on constrained hardware
 
----
-
-## `> ls ./experience`
-
-**🔬 AI Manufacturing Systems Lab** — *Undergraduate Researcher* `Jan 2025 – Present`
-> Deploying optimized vision transformers on NVIDIA Jetson hardware
-
-**🚗 Buckeye AutoDrive** — *Algorithm Developer* `Aug 2024 – Apr 2025`
-> Built real-time perception algorithms for an autonomous vehicle using YOLOv11 and distributed SLURM training.
-
----
-
-## `> cat skills.txt`
-
-```
-Languages      →  Python  C/C++  SQL  Bash
-ML/DL          →  PyTorch  CUDA  TensorRT  Scikit-Learn  OpenCV  NumPy  Pandas
-Infra          →  Docker  Kubernetes  AWS  PostgreSQL  Linux  Git
-Specialties    →  Edge Inference  Embedded Deployment  Distributed Training  Real-Time CV
-```
-
----
-
-## `> cat involvement.txt`
-
-- 🏆 **Management Leadership for Tomorrow** — Career Prep Fellow 
-- 🤝 **Society of Hispanic Professional Engineers** — Member
-- 🎨 **ColorStack** — Member
-- 💻 **ACM** — Member
+outside of that i like autonomous systems, agents, and low-level optimization in general.
 
 ---
 
 <div align="center">
-
-*"Making models smaller, faster, and smarter"*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=jayden1711&color=58a6ff&style=flat-square)
 
