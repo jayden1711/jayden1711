@@ -2,13 +2,13 @@
 
 # hey, i'm jayden 👋
 
-CS @ Ohio State · interested in systems, ML, and making things run fast
+CS @ Ohio State - interested in systems, ML, and making things run fast
 
 </div>
 
 ---
 
-i'm into **GPU kernels**, **distributed training**, and **edge inference** (basically anything to do with systems and ML)
+i'm into GPU kernels, distributed training, and edge inference (basically anything to do with systems and ML)
 
 lately i've been spending time on:
 - correctness verification for LLM-generated Triton kernels
