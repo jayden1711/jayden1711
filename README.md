@@ -2,7 +2,7 @@
 
 # hey, i'm jayden 👋
 
-CS @ Ohio State · interested in systems, ML, and making things run fast
+CS @ Ohio State
 
 </div>
 
