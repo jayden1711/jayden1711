@@ -1,16 +1,16 @@
 <div align="center">
 
 # hey, i'm jayden 👋
-
-CS @ Ohio State
+ML Systems | CUDA, Triton, PyTorch | CS @ Ohio State
 
 </div>
 
-i'm into **GPU kernels**, **distributed training**, and **edge inference** (basically anything to do with systems and ML)
+into **GPU kernels**, **distributed training**, and **inference optimization** — basically anything do with systems and ML.
 
-lately i've been spending time on:
-- correctness verification for LLM-generated Triton kernels
-- sparse attention kernels for reasoning models
-- making inference run fast on constrained hardware
+lately working on:
+- distributed training + inference profiler, profiling which CUDA kernels are blocking NCCL collectives 
+- Triton kernel correctness verifier catching bugs that naive allclose misses for LLM generated kernels- research at Stanford PPL
 
-outside of that i like autonomous systems, agents, and low-level optimization in general.
+also: AI agent systems @ NASA Ames, ML profiling tooling @ NVIDIA this fall.
+
+**stack:** C++, Python, Rust, CUDA, Triton, TensorRT, PyTorch, NCCL, Nsight Compute
