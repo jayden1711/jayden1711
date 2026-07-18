@@ -1,16 +1,9 @@
 <div align="center">
 
-# hey, i'm jayden 👋
-ML Systems | CUDA, Triton, PyTorch | CS @ Ohio State
-
 </div>
 
-into **GPU kernels**, **distributed training**, and **inference optimization** — basically anything do with systems and ML.
+Interested in GPU kernels, distributed training, and inference optimization
 
 lately working on:
 - distributed training + inference profiler, profiling which CUDA kernels are blocking NCCL collectives 
 - Triton kernel correctness verifier catching bugs that naive checks miss for LLM generated kernels 
-
-also: AI agent systems @ NASA Ames, ML profiling tooling @ NVIDIA this fall.
-
-**stack:** C++, Python, Rust, CUDA, Triton, TensorRT, PyTorch, NCCL, Nsight Compute
